@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFContacts", "WPFContacts.csproj", "{207C9EC6-6867-49E0-AF7C-E7A14C33931D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactService", "..\ContactService\ContactService.csproj", "{7A049A1F-3B13-4714-9C9A-349CA844025B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207C9EC6-6867-49E0-AF7C-E7A14C33931D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207C9EC6-6867-49E0-AF7C-E7A14C33931D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207C9EC6-6867-49E0-AF7C-E7A14C33931D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207C9EC6-6867-49E0-AF7C-E7A14C33931D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A049A1F-3B13-4714-9C9A-349CA844025B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A049A1F-3B13-4714-9C9A-349CA844025B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A049A1F-3B13-4714-9C9A-349CA844025B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A049A1F-3B13-4714-9C9A-349CA844025B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {858B2DC3-831C-4F93-84E1-67C0FF5B2C62}
+	EndGlobalSection
+EndGlobal
